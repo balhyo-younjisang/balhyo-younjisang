@@ -3,12 +3,12 @@
 ![balhyo-youjisang's GitHub stats](https://github-readme-stats.vercel.app/api?username=balhyo-younjisang&show_icons=true&theme=tokyonight)
 [![Solved.ac Profile](http://mazassumnida.wtf/api/generate_badge?boj=younjisang)](https://solved.ac/younjisang)
 ![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=balhyo-younjisang&layout=compact&theme=dracula)
+
+## 📞 Contact 📞
  <a href="https://easyhomputer.tistory.com">
         <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white"> 
     </a>
 [![Tistory Badge](https://img.shields.io/badge/Tech%20Blog-555263?style=flat&logoColor=white)](https://balhyohongsam.tistory.com/)
-
-## 📞 Contact 📞
 <div style="display:flex; flex-direction:row;">
     <a href="https://www.instagram.com/yunjisang_">
         <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white"> 
