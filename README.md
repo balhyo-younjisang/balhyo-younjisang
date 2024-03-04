@@ -7,3 +7,5 @@
 <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balhyo-younjisang&layout=compact&theme=dracula" alt="Top Langs">
 </div>
 </div>
+
+<img src="https://github.com/balhyo-younjisang/balhyo-younjisang/blob/output/github-contribution-grid-snake.svg" alt="snake gif">
