@@ -1,4 +1,4 @@
-<h1 style="text-align:center">🚀 윤지상 ( Yun jisang ) 🚀</h1>
+<img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=YUNJISANG&fontSize=90" />
 
 <div style="display:flex; flex-direction:column; align-items:center;">
 <img src="https://github-readme-stats.vercel.app/api?username=balhyo-younjisang&show_icons=true&theme=tokyonight" alt="balhyo-youjisang's GitHub stats">
