@@ -1,5 +1,3 @@
-### <a href="https://yunjisang.me" style="text-decoration: none; color: white;"> yunjisang.me </a>
-
 <a href="https://www.instagram.com/yunjisang_/">
   <img src="https://skillicons.dev/icons?i=instagram">
 </a>
