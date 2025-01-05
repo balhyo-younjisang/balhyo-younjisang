@@ -9,7 +9,7 @@
 <br>
 <hr>
 <img src="https://skillicons.dev/icons?i=js,ts,docker,cpp,mysql,linux,spring">
-<img src="https://skillicons.dev/icons?i=mongodb,python,postgres,git,go,java,kotlin">
+<img src="https://skillicons.dev/icons?i=mongodb,python,postgres,git,go,java,redis">
 <hr>
 <br>
 <br>
