@@ -5,7 +5,7 @@
 <a href="https://www.instagram.com/yunjisang_/">
   <img src="https://skillicons.dev/icons?i=instagram">
 </a>
-<a href="mailto:yjs12180825@gmail.com">
+<a href="mailto:contact@yunjisang.me">
   <img src="https://skillicons.dev/icons?i=gmail">
 </a>
 
