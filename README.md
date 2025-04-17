@@ -12,8 +12,8 @@
 <br>
 <br>
 <hr>
-<img src="https://skillicons.dev/icons?i=js,ts,docker,cpp,mysql,linux,spring">
-<img src="https://skillicons.dev/icons?i=mongodb,python,postgres,git,go,java,redis">
+<img src="https://skillicons.dev/icons?i=js,ts,docker,cpp,mysql,linux,spring,flutter">
+<img src="https://skillicons.dev/icons?i=mongodb,python,postgres,git,go,java,redis,pytorch">
 <hr>
 <br>
 <br>
