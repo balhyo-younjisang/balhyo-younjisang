@@ -1,34 +1,9 @@
-<h1>
-  <a href="https://site.yunjisang.me">yunjisang.me</a>
-</h1>
-
-<a href="https://www.instagram.com/yunjisang_/">
-  <img src="https://skillicons.dev/icons?i=instagram">
-</a>
-<a href="mailto:contact@yunjisang.me">
-  <img src="https://skillicons.dev/icons?i=gmail">
-</a>
-
-<br>
-<br>
-<hr>
-<img src="https://skillicons.dev/icons?i=js,ts,docker,cpp,mysql,linux,spring,flutter">
-<img src="https://skillicons.dev/icons?i=mongodb,python,postgres,git,go,java,redis,pytorch">
-<hr>
-<br>
-<br>
-<img src="https://github-profile-trophy.vercel.app/?username=balhyo-younjisang&theme=onedark">
-<hr>
-<br>
-<br>
-
+<div>
+  <img src="https://skillicons.dev/icons?i=js,ts,docker,cpp,mysql,linux,spring,flutter">
+  <img src="https://skillicons.dev/icons?i=mongodb,python,postgres,git,go,java,redis,pytorch">
+</div>
 <picture>
   <source media="(prefers-color-scheme: dark)" srcset="https://raw.githubusercontent.com/balhyo-younjisang/balhyo-younjisang/output/github-contribution-grid-snake-dark.svg">
   <source media="(prefers-color-scheme: light)" srcset="https://raw.githubusercontent.com/balhyo-younjisang/balhyo-younjisang/output/github-contribution-grid-snake.svg">
   <img alt="github contribution grid snake animation" src="https://raw.githubusercontent.com/balhyo-younjisang/balhyo-younjisang/output/github-contribution-grid-snake.svg">
 </picture>
-
-<div style="display:flex; flex-direction:column; align-items:center;">
-<img src="https://github-readme-stats.vercel.app/api?username=balhyo-younjisang&show_icons=true&theme=tokyonight" alt="balhyo-youjisang's GitHub stats">
-<img src="https://github-readme-stats.vercel.app/api/top-langs/?username=balhyo-younjisang&layout=compact&theme=dracula" alt="Top Langs">
-</div>
